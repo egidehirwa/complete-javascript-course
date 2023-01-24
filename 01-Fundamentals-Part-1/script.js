@@ -1,8 +1,7 @@
-let js = 'amazing';
+let js = "amazing";
 // if(js === 'amazing') alert('JS is FUN');
 
 console.log(js);
-
 
 // Values and variables
 // Variables are named in camelcase
@@ -13,8 +12,7 @@ console.log(js);
 
 // name variables in a descriptive manner - for easier comprehension
 
-
-let firstName = "Bob"
+let firstName = "Bob";
 
 console.log(firstName);
 
@@ -22,3 +20,7 @@ let myFirstJob = "Server";
 let myCurrentJob = "Programmer";
 
 console.log(myFirstJob);
+
+console.log(typeof 23);
+console.log(typeof js);
+console.log(typeof "Jonas");
